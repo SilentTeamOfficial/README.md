@@ -1,10 +1,9 @@
 # Silent Team Official
 
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat&logo=linux&logoColor=black)
-[![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-000000?style=flat&logo=hackthebox&logoColor=white)](https://www.hackthebox.com/)
-![OSINT](https://img.shields.io/badge/OSINT-1F2937?style=flat&logo=RedHat&logoColor=white)
-
 ## About Us
+![Collective](https://img.shields.io/badge/Collective-6CCF60?style=flat&logo=GraphQL&logoColor=white)
+![Research](https://img.shields.io/badge/Research-368297?style=flat&logo=ReadTheDocs&logoColor=white)
+![Knowledge](https://img.shields.io/badge/Knowledge-800020?style=flat&logo=Task&logoColor=white)
 
 **Silent Team** is an **Italian collective** made up of **students**, **researchers** and **cybersecurity enthusiasts** with an advanced focus on **Open Source Intelligence**, **Ethical Hacking**, **Cybersecurity Research** and **Digital Forensics**. We operate with an approach geared toward research, experimental verification and the responsible sharing of technical knowledge. Our goal is to **contribute** to the growth of the **cybersecurity community** through the development of **open-source tools**, the analysis of emerging techniques, the production of operational guides and the promotion of ethical behavior in the field of digital security.
 We believe in a collaborative, transparent and shared security model, where **knowledge** is the primary tool for **protecting** and training **infrastructure**, **data** and **people**.
@@ -22,14 +21,17 @@ We believe in a collaborative, transparent and shared security model, where **kn
 
 ## Interest Area
 ![Intelligence](https://img.shields.io/badge/Intelligence-FF69B4?style=flat&logo=Startpage&logoColor=white)
+![Analysis](https://img.shields.io/badge/Analysis-008080?style=flat&logo=GoogleAnalytics&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-000000?style=flat&logo=Persistent&logoColor=white)
+![Scripting](https://img.shields.io/badge/Scripting-708090?style=flat&logo=Cobalt&logoColor=white)
 
-• **Open Source Intelligence** <br>
-• **Network Security** <br>
-• **Digital Forensics** <br>
-• **Threat Analysis** <br>
-• **Web Security** <br>
-• **Automation** <br>
-• **Scripting** <br>
+• The **collection** and **analysis** of **publicly** available **information** to generate actionable intelligence. <br>
+• Implementing **safeguards** to protect **network** infrastructure and transmitted **data**. <br>
+• The **forensic investigation** of digital **media** to recover and preserve **evidence**. <br>
+• **Identifying**, **assessing** and **understanding** potential threats and **malicious** actors. <br>
+• **Securing** online services, **web applications** and their underlying **data**. <br>
+• **Employing tools** and scripts for the **automatic execution** of complex and repetitive tasks. <br>
+• **Developing** and utilizing programs to automate **workflows** and perform targeted operations. <br>
 
 ## Community
 
