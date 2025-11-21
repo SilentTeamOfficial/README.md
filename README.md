@@ -1,4 +1,4 @@
-![Silent Team Logo](title.png)
+# <p align="center">Silent Team Official</p>
 
 ## About Us
 ![Collective](https://img.shields.io/badge/Collective-6CCF60?style=flat&logo=GraphQL&logoColor=white)
