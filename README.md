@@ -1,6 +1,6 @@
 # <p align="center">Silent Team Official</p>
 
-## About Us
+## Silent Group
 ![Collective](https://img.shields.io/badge/Collective-6CCF60?style=flat&logo=GraphQL&logoColor=white)
 ![Research](https://img.shields.io/badge/Research-368297?style=flat&logo=ReadTheDocs&logoColor=white)
 ![Knowledge](https://img.shields.io/badge/Knowledge-800020?style=flat&logo=Task&logoColor=white)
@@ -8,7 +8,7 @@
 **Silent Team** is an **Italian collective** made up of **students**, **researchers** and **cybersecurity enthusiasts** with an advanced focus on **Open Source Intelligence**, **Ethical Hacking**, **Cybersecurity Research** and **Digital Forensics**. We operate with an approach geared toward research, experimental verification and the responsible sharing of technical knowledge. Our goal is to **contribute** to the growth of the **cybersecurity community** through the development of **open-source tools**, the analysis of emerging techniques, the production of operational guides and the promotion of ethical behavior in the field of digital security.
 We believe in a collaborative, transparent and shared security model, where **knowledge** is the primary tool for **protecting** and training **infrastructure**, **data** and **people**.
 
-## Project Purpose
+## Silent Purpose
 ![Security](https://img.shields.io/badge/Security-E74C3C?style=flat&logo=RedHat&logoColor=white)
 ![Education](https://img.shields.io/badge/Education-8A2BE2?style=flat&logo=gitbook&logoColor=white)
 ![Development](https://img.shields.io/badge/Development-FF7800?style=flat&logo=Educative&logoColor=white)
@@ -19,7 +19,7 @@ We believe in a collaborative, transparent and shared security model, where **kn
 • **Develop** and **maintain open-source tools** useful to professionals and students. <br>
 • **Promote** a culture of **legal and ethical responsibility in cybersecurity**. <br>
 
-## Interest Area
+## Silent Interest
 ![Intelligence](https://img.shields.io/badge/Intelligence-FF69B4?style=flat&logo=Startpage&logoColor=white)
 ![Analysis](https://img.shields.io/badge/Analysis-008080?style=flat&logo=GoogleAnalytics&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-000000?style=flat&logo=Persistent&logoColor=white)
@@ -33,7 +33,7 @@ We believe in a collaborative, transparent and shared security model, where **kn
 • **Employing tools** and scripts for the **automatic execution** of complex and repetitive tasks. <br>
 • **Developing** and utilizing programs to automate **workflows** and perform targeted operations. <br>
 
-## Community
+## Silent Community
 
 [![Website](https://img.shields.io/badge/Website-2ECC71?style=flat&logo=htmx&logoColor=white)](https://silent-osint.dev/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/Silent0sint)
