@@ -1,9 +1,10 @@
 # <p align="center">Silent Team Official</p>
 
 ## Silent Group
-![Collective](https://img.shields.io/badge/Collective-6CCF60?style=flat&logo=GraphQL&logoColor=white)
+![Collective](https://img.shields.io/badge/Collective-6CCF60?style=flat&logo=docsify&logoColor=white)
 ![Research](https://img.shields.io/badge/Research-368297?style=flat&logo=ReadTheDocs&logoColor=white)
 ![Knowledge](https://img.shields.io/badge/Knowledge-800020?style=flat&logo=Task&logoColor=white)
+![Data](https://img.shields.io/badge/Data-556B2F?style=flat&logo=Alwaysdata&logoColor=white)
 
 **Silent Team** is an **Italian collective** made up of **students**, **researchers** and **cybersecurity enthusiasts** with an advanced focus on **Open Source Intelligence**, **Ethical Hacking**, **Cybersecurity Research** and **Digital Forensics**. We operate with an approach geared toward research, experimental verification and the responsible sharing of technical knowledge. Our goal is to **contribute** to the growth of the **cybersecurity community** through the development of **open-source tools**, the analysis of emerging techniques, the production of operational guides and the promotion of ethical behavior in the field of digital security.
 We believe in a collaborative, transparent and shared security model, where **knowledge** is the primary tool for **protecting** and training **infrastructure**, **data** and **people**.
@@ -38,8 +39,10 @@ We believe in a collaborative, transparent and shared security model, where **kn
 [![Website](https://img.shields.io/badge/Website-2ECC71?style=flat&logo=htmx&logoColor=white)](https://silent-osint.dev/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/Silent0sint)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/fGb9JMgNMe)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/SilentTeamOfficial)
 
 **Visit** our **Website** to stay up to date on the world of **Open Source Intelligence** and conduct research like a true professional. <br>
-**Join** the **Telegram** channel to stay up to date with the **latest news** and join the public chat to **talk** and **meet** new enthusiasts and professionals.
-**Join** the **Discord** community to receive **support** actively communicate with **staff** and  stay up to date. <br><br>
+**Join** the **Telegram** channel to stay up to date with the **latest news** and join the public chat to **talk** and **meet** new enthusiasts and professionals. <br>
+**Join** the **Discord** community to receive **support**, actively communicate with **staff** and stay up to date. <br>
+**Visit** our **GitHub** profile to access **customized** resources.<br><br>
 **Join** our **Community** to **explore** a new world that is safe and authentic and **become** an active part of the ethical cybersecurity movement. <br>
